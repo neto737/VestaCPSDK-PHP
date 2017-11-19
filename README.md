@@ -18,4 +18,4 @@ $vestacp = new VestaCPSDK('hostname', 'username', 'password');
 - <a href="https://github.com/neto737" target="_blank">Neto Melo</a>
 
 ## Donations:
-#### Donate: 1DNAopnenZxPLiY4N4sHPwpaRZbxmYJQX7
+#### Donate: 12oyGgGHYp1NxtoQFUmaoqm1z8XAeTQKUb
